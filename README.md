@@ -1,29 +1,22 @@
 # Mahmoud Elmenofy
 
-### Senior Full-Stack Developer
+### Senior Full-Stack Developer & AI Engineer
 
-Web Applications · APIs · Integrations
+Web Applications · APIs · Integrations · Business Systems
 
-I build and maintain web applications across frontend and backend, with a strong foundation in PHP, Laravel, JavaScript, and MySQL.
+I build and maintain web applications across frontend and backend, translating business requirements into connected application workflows.
 
-My work includes e-commerce and booking flows, payment and shipping integrations, subscription-related features, vendor commissions, and transaction logic. I use AI tools professionally as part of my development workflow.
+My experience spans e-commerce, booking systems, subscription features, payment and shipping integrations, and marketplace business logic.
 
-## Technical focus
+## Areas of focus
 
-- **Frontend:** JavaScript, jQuery, CSS, Bootstrap
-- **Backend:** PHP, Laravel, REST APIs
-- **Data:** MySQL, Eloquent, database migrations
-- **Application features:** authentication, permissions, queues, events, scheduled tasks
-- **Testing and collaboration:** PHPUnit, Laravel application tests, Git
-- **Integrations:** Kashier payments and Bosta shipping
+- Full-stack application development and maintenance
+- API development and third-party integrations
+- Business workflows, data models, and access control
+- Background processing and application testing
+- Professional use of AI throughout the development workflow
 
-## Public projects
-
-- [Warehouse Management](https://github.com/MElmenofy/warehouse-management) — an inventory API example with stock transfers, caching, events, and feature tests.
-- [Invoices](https://github.com/MElmenofy/Invoices) — a legacy Laravel invoice-management application.
-- [Laravel Room Chat](https://github.com/MElmenofy/laravel-room-chat) — a Laravel and Livewire chat demo.
-
-These repositories include demonstration and learning projects. Commercial application source remains private.
+I use AI tools professionally to support development, code review, debugging, and test preparation, including local AI tools when appropriate.
 
 ## Connect
 
